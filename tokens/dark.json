@@ -2,7 +2,7 @@
   "theme": {
     "bg": {
       "default": {
-        "value": "#171717",
+        "value": "#f2a2b3",
         "type": "color"
       },
       "subtle": {

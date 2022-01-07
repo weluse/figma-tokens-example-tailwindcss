@@ -621,7 +621,7 @@ video {
 }
 
 .dark-theme {
-  --theme-bg-default: #f2a2b3;
+  --theme-bg-default: #171717;
   --theme-bg-subtle: #323232;
   --theme-bg-muted: #757575;
   --theme-fg-default: #ffffff;
